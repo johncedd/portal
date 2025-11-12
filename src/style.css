@@ -1,0 +1,23 @@
+.bg-pastel-blue {
+  background-color: #a8dadc;
+}
+.bg-pastel-white {
+  background-color: #f1faee;
+}
+.text-pastel-dark {
+  color: #1d3557;
+}
+.bg-pastel-purple {
+  background-color: #b5838d;
+}
+.bg-pastel-dark-purple {
+  background-color: #6d597a;
+}
+.focus\:ring-pastel-purple:focus {
+  --tw-ring-color: #b5838d;
+}
+input,
+button {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+}
